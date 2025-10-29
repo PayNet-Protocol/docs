@@ -60,7 +60,7 @@ Complete documentation for PayNet protocol and tools.
 ## Contents
 - [API Reference](API_REFERENCE.md) - Complete API documentation
 - [Quick Start Guide](https://paynet.network/quickstart) - Get started in 2 minutes
-- [Protocol Specification](https://github.com/YOUR_USERNAME/x402-protocol) - x402 protocol details
+- [Protocol Specification](https://github.com/PayNet-Protocol/x402-protocol) - x402 protocol details
 ## Links
 - **Website**: https://paynet.network
 - **Live Demo**: https://paynet.network/demo
